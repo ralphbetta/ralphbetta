@@ -35,7 +35,7 @@ At his liesure, Etta create stunning graphical contents on [Behance](https://www
 
 <p>
   
-- **Technology Stack:** Dart[Flutter], Python[Django, Machine Learning], PHP[WordPress, OOP].
+- **Technology Stack:** Dart[Flutter], Python[Django, Machine Learning], PHP[Laravel, WordPress, OOP].
 
 - **UI Design:** Adobe xd, Figma.
 
