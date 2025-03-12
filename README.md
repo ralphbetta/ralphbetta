@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- <h3>I'm Etta, Raphael - Software Developer </h3> -->
 
 <br/>
-<p>Welcome to my GitHub profile! I'm <b>Etta Raphael</b>, an experienced web and hybrid mobile developer, specialized in developing and deploying professional and user-friendly applications for complex and scalable intents, with hands-on experience in industry-relevant tools, languages, and frameworks.</p>
+<p>Welcome to my GitHub profile! I'm <b>Etta Raphael</b>, an experienced server-side, web and hybrid mobile developer, specialized in developing and deploying professional and user-friendly applications for complex and scalable intents, with hands-on experience in industry-relevant tools, languages, and frameworks.</p>
 
 <h4>I currently working as an hybrid mobile application developer at <a href="https://www.cloudclinic.ng">Cloud Clinic Limited</a></h4>
 <br>
